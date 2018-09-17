@@ -17,7 +17,7 @@ class blobContainer {
                 } else {
 
                     resolve({
-                        documentId: containerName,
+                        documentId: containerName ,
                         uploadUrl: uploadUrl + containerName
                     });
                 }
