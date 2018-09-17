@@ -11,8 +11,7 @@ module.exports = function (context, req) {
         .then( (obj) => {
 
             obj.sasToken = storage.generateSasToken(documentId);
-            obj.test = "howdy";
-            
+
             context.res = {
                 body: obj
             };
