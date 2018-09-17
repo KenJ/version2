@@ -1,0 +1,9 @@
+{
+    "name": "cf-version2",
+    "author": "gb ",
+    "version": "1.0",
+    "description": "file manager :)",
+    "dependencies": {
+        "azure-storage": "^2.10.1"
+    }
+}
