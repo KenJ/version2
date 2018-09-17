@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=cfdocumentsfunca7c7;AccountKey=UZAhwbVJsiaCdaqeT7DG00hv9yl4YE7HvA7BIbWsoud8PRdW3BrU1/xuXQ/i5yLRDBrvs1uurZcNkIOqc2DGtA=="
+  },
+  "ConnectionStrings": {}
+}
