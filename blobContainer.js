@@ -35,9 +35,9 @@ class blobContainer {
         var startDate = new Date();
         startDate.setMinutes(startDate.getMinutes() - 15);
         var expiryDate = new Date(startDate);
-        expiryDate.setMinutes(startDate.getMinutes() + 60);
+        expiryDate.setMinutes(startDate.getMinutes() + 60*24);
 
-        var permissions = "wdl";
+        var permissions = "wd";
 
         var sharedAccessPolicy = {
             AccessPolicy: {
